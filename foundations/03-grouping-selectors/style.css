@@ -1,0 +1,15 @@
+.Yesbtn {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.Nobtn {
+    background-color: yellow;
+}
+
+.Yesbtn,
+.Nobtn {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
